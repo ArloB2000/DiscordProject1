@@ -1,10 +1,6 @@
 This Bot is provided to you by Frost from Raidforums.com
 
-To make the bot work, you need to have node installed on your device before you run anything.
-please install the correct npm packages by running Install Packages.bat AFTER installing nodejs.
-
-After installing node and running "Install Packages.bat", please run the settings.bat folder to scope the bot to look for and/or respond with what you need.
-Then open the start.bat program to start the self bot. 
+Please refer to the RF post for how to correctly install the packages
 
 You will need to have developer mode enabled on discord to get the ids of the user, server, and/or channel you want to log
 to get your user token, load up discord on preferably chrome and f12 and press the phone/tablet icon to go into mobile view. You may have to then refresh your browser.
