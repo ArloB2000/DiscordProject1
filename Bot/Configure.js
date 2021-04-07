@@ -1,1 +1,0 @@
-console.log("This project is currently deprecated. \tIt will likely be brought back in the near-future. \tThis project USED to be a simple discord terminal client for people who can't use discord at its' full capacity on their system.");
