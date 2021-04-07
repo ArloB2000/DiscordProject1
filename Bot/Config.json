@@ -1,17 +1,3 @@
 {
-  "token": "",
-  "showTimeStamp": "",
-  "userShown": "",
-  "status": "",
-  "statusText": "",
-  "statusType": "",
-  "statusURL": "",
-  "LogCertain": "",
-  "LogLinks": "",
-  "LogUser": "",
-  "LogServer": "",
-  "LogChannel": "",
-  "clearOn": "",
-  "showChannel": "",
-  "showServer": ""
+  "project": "deprecated, will be brought back."
 }
